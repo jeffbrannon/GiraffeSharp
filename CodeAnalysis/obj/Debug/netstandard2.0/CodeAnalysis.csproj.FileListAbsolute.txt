@@ -1,0 +1,8 @@
+D:\Projects\Hackathon\GiraffeSharp\CodeAnalysis\bin\Debug\netstandard2.0\CodeAnalysis.deps.json
+D:\Projects\Hackathon\GiraffeSharp\CodeAnalysis\bin\Debug\netstandard2.0\CodeAnalysis.dll
+D:\Projects\Hackathon\GiraffeSharp\CodeAnalysis\bin\Debug\netstandard2.0\CodeAnalysis.pdb
+D:\Projects\Hackathon\GiraffeSharp\CodeAnalysis\obj\Debug\netstandard2.0\CodeAnalysis.AssemblyInfoInputs.cache
+D:\Projects\Hackathon\GiraffeSharp\CodeAnalysis\obj\Debug\netstandard2.0\CodeAnalysis.AssemblyInfo.cs
+D:\Projects\Hackathon\GiraffeSharp\CodeAnalysis\obj\Debug\netstandard2.0\CodeAnalysis.csproj.CoreCompileInputs.cache
+D:\Projects\Hackathon\GiraffeSharp\CodeAnalysis\obj\Debug\netstandard2.0\CodeAnalysis.dll
+D:\Projects\Hackathon\GiraffeSharp\CodeAnalysis\obj\Debug\netstandard2.0\CodeAnalysis.pdb
